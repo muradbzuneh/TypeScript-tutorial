@@ -7,17 +7,17 @@ export type Todo={
 export const todoitem:Todo[]=[
     {
     id:1,
-    Title:"wokeup",
+    Title:"wokeup from sleep",
     completed:false
     },
      {
     id:2,
-    Title:"wokeup",
+    Title:"go to shower and take also brush the teeth",
     completed:false
     },
      {
     id:3,
-    Title:"wokeup",
+    Title:"cook the food and eat break fast",
     completed:false
     }
 ]
